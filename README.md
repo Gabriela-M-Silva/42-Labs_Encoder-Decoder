@@ -6,7 +6,7 @@ Obs.:
 - Organizar funções e arquivos [ ]; 
 - Resolver caso de teste para chars repetidos (ex yyyyyyyy) [ ];
 - Formatar e melhorar READme [ ];
-- Organizar norma dentro do necessário (retirar comentários de teste e obs) [ ];
+- Organizar norma dentro do necessário (retirar comentários de teste e resolver/remover obs) [ ];
 
 -------------------
 Teste para o Labs em janeiro/2023
